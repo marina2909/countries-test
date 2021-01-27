@@ -1,4 +1,4 @@
-Minesweeper
+Countries test
 ===========
 
 
